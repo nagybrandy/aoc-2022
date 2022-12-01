@@ -1,4 +1,4 @@
-#one-liner for the first part   sasd
+#one-liner for the first part  asd
 
 print(max(([sum(int(i) for i in j.split('\n')) for j in open('input.txt').read().split('\n\n')])))
 
